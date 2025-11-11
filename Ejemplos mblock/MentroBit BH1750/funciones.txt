@@ -1,0 +1,1 @@
+Extensión para usar el modulo de BH1750 de MentorBit en mblock. Cuenta con dos bloques, el primero es para configurar la comunicación por I2C del módulo y el segundo es para consultar valor del sensor BH1750.

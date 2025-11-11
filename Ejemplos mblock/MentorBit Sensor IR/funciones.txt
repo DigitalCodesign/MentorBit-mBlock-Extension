@@ -1,0 +1,1 @@
+Extensión para usar el modulo de infrarrojo de MentorBit en mblock. Cuenta con dos bloques, el primero es para configurar el pin al que se conecta el modulo y el segundo es para consultar el estado del sensor IR.

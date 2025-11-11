@@ -1,0 +1,1 @@
+Extensión para usar el modulo de MQ de MentorBit en mblock. Cuenta con múltiples bloques (para varios MQ), aunque se pueden simplificar en dos principales, uno es para configurar el pin al que esta conectado el modulo, mientras que el otro es para consultar el valor del sensor MQ que se usa.

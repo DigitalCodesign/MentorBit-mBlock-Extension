@@ -1,0 +1,1 @@
+Extensión para usar el modulo de 1-Relé de MentorBit en mblock. Cuenta con dos bloques, el primero es para configurar el pin asociado al relé y el segundo te permite cambiar el estado (conmutando entre el normalmente cerrado y el normalmente abierto).

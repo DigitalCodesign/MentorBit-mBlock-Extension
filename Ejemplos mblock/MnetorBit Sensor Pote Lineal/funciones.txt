@@ -1,0 +1,1 @@
+Extensión para usar el modulo de potenciómetro lineal de MentorBit en mblock. Cuenta con tres bloques, el primero es para configurar la comunicación por I2C del módulo, el segundo es para consultar el valor del potenciómetro (valor analógico) y el último es para encender el led del modulo que el usuario desee.
