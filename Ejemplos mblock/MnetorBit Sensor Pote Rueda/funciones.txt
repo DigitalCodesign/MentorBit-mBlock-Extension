@@ -1,0 +1,1 @@
+Extensión para usar el modulo de potenciómetro de rueda de MentorBit en mblock. Cuenta con tres bloques, el primero es para configurar el pin al que se conecta el modulo, el segundo es para consultar el valor del potenciómetro (valor analógico) y el último es para encender el led del modulo.

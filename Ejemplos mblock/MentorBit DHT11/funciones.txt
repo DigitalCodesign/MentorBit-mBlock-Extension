@@ -1,0 +1,1 @@
+Extensión para usar el modulo de DHT11 de MentorBit en mblock. Cuenta con tres bloques, el primero es para configurar el pin del módulo, el segundo es para consultar el valor de la temperatura y el último para consultar el valor de la humedad.

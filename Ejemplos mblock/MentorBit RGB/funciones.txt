@@ -1,0 +1,1 @@
+Extensión para usar el modulo de led RGB de MentorBit en mblock. Cuenta con cuatro bloques, el primero es para configurar el pin al que se conecta el modulo, el segundo es para configurar los colores (dando valores del 0 al 255 de rojo, verde y azul), el tercero te permite cambiar el brillo (valores desde el 0 hasta el 255) y el ultimo te permite apagar el led RGB.

@@ -1,0 +1,1 @@
+Extensión para usar el modulo de BMP280 de MentorBit en mblock. Cuenta con tres bloques, el primero es para consultar el valor de temperatura, el segundo es para el valor de la presión atmosférica y el último para la altitud.

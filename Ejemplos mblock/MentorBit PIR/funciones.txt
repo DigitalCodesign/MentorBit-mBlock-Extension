@@ -1,0 +1,1 @@
+Extensión para usar el modulo de PIR de MentorBit en mblock. Cuenta con tres bloques, el primero es para configurar el pin al que se conecta el modulo, el segundo es para consultar si ha detectado presencia o no (booleano) y el tercero es para mostrar directamente un mensaje de si se ha detectado presencia o no (texto).

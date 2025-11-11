@@ -1,0 +1,1 @@
+Extensión para usar el modulo de distancia laser de MentorBit en mblock. Cuenta con dos bloques, el primero es para configurar la comunicación por I2C y el segundo es para consultar el valor de la distancia que mide el sensor.
